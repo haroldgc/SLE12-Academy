@@ -1,1 +1,2 @@
-# SLE12-Academy
+
+# SUSE Linux 12 Academy
